@@ -5,7 +5,7 @@ public class main extends soma{
 
     public static void main(String[] args) {
         int soma;
-        
+        // NADA
         soma s = new soma();  
         
         soma = s.soma(6, 4);
