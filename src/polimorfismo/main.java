@@ -7,7 +7,7 @@ public class main extends soma{
        
         int total;
         
-        // Instanciar Soma 
+        // Instancia  
         soma s = new soma();  
         
         total = s.soma(6, 4);
