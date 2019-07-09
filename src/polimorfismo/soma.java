@@ -11,6 +11,10 @@ public class soma {
     public soma() {
     }
 
+    public int soma(int num1, int num2) {
+        return num1 + num2;
+    }
+
     
     
     public int getNum1() {
@@ -33,15 +37,10 @@ public class soma {
     public void setNum3(int num3) {
         this.num3 = num3;
     }
-
     
     public int getNum4() {
         return num4;
     }
-
-    /**
-     * @param num4 the num4 to set
-     */
     public void setNum4(int num4) {
         this.num4 = num4;
     }    
