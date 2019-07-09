@@ -15,8 +15,14 @@ public class soma {
         return num1 + num2;
     }
 
-    
-    
+    public int soma(int num1, int num2, int num3) {
+        return num1 + num2 + num3;
+    }
+
+    public int soma(int num1, int num2, int num3, int num4) {
+        return num1 + num2 + num3 + num4;
+    }
+        
     public int getNum1() {
         return num1;
     }
